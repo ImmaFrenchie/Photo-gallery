@@ -70,4 +70,6 @@
   padding: 10px;
 }
 .nature {
+  position: relative;
+  width: 90%;
 }

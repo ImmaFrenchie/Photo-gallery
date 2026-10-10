@@ -75,6 +75,7 @@
   overflow-x: scroll;
   gap: 1rem;
   border: black 2px solid;
+  margin: auto;
 }
 .nature img {
   width: 100%;

@@ -43,6 +43,31 @@
   justify-content: center;
 }
 .backrooms img {
-  width: 250px;
+  width: 350px;
   height: auto;
+}
+.card {
+  width: 350px;
+  height: auto;
+  border: black 2px solid;
+  padding: 10px;
+  text-align: center;
+}
+.weirdcore {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+.weirdcore img {
+  width: 350px;
+  height: 400px;
+}
+.cards {
+  width: auto;
+  height: auto;
+  border: greenyellow 2px solid;
+  padding: 10px;
+}
+.nature {
 }
